@@ -1,0 +1,3 @@
+TemperatureSensor1,DataCentreRoomA,22.0,24.0
+TemperatureSensor2,DataCentreRoomB,21.5,23.5
+TemperatureSensor3,DataCentreRoomC,22.0,24.0

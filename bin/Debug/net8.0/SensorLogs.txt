@@ -1,0 +1,222 @@
+26/11/2024 4:43:08 pm: Sensor TemperatureSensor1: 23.289326869383867 °C
+26/11/2024 4:43:37 pm: Sensor TemperatureSensor1: 22.192156018350214 °C
+26/11/2024 4:44:15 pm: Sensor TemperatureSensor1: 22.182924877736983 °C
+26/11/2024 4:48:19 pm: Sensor TemperatureSensor1: 23.75486895915149 °C
+26/11/2024 4:48:19 pm: Sensor TemperatureSensor2: 22.445343554407014 °C
+26/11/2024 4:48:19 pm: Sensor TemperatureSensor3: 23.688772311046687 °C
+26/11/2024 4:48:20 pm: Sensor TemperatureSensor1: 23.62309181259744 °C
+26/11/2024 4:48:20 pm: Invalid data detected for Sensor TemperatureSensor2
+26/11/2024 4:48:20 pm: Sensor TemperatureSensor3: 23.459550126573347 °C
+26/11/2024 4:48:21 pm: Sensor TemperatureSensor1: 23.276592490481235 °C
+26/11/2024 4:48:21 pm: Sensor TemperatureSensor2: 23.182302596110503 °C
+26/11/2024 4:48:21 pm: Sensor TemperatureSensor3: 22.432552455368146 °C
+26/11/2024 4:48:22 pm: Sensor TemperatureSensor1: 22.535930750250163 °C
+26/11/2024 4:48:22 pm: Sensor TemperatureSensor2: 22.194685809972228 °C
+26/11/2024 4:48:22 pm: Sensor TemperatureSensor3: 23.213549741817108 °C
+26/11/2024 4:48:23 pm: Sensor TemperatureSensor1: 22.82373791674674 °C
+26/11/2024 4:48:23 pm: Sensor TemperatureSensor2: 22.05554729684065 °C
+26/11/2024 4:48:23 pm: Sensor TemperatureSensor3: 23.223702074698732 °C
+26/11/2024 4:48:24 pm: Sensor TemperatureSensor1: 23.368398881378035 °C
+26/11/2024 4:48:24 pm: Sensor TemperatureSensor2: 22.94604134548274 °C
+26/11/2024 4:48:24 pm: Sensor TemperatureSensor3: 23.157572124515248 °C
+26/11/2024 4:48:25 pm: Sensor TemperatureSensor1: 22.874213350903304 °C
+26/11/2024 4:48:25 pm: Sensor TemperatureSensor2: 22.432323494979155 °C
+26/11/2024 4:48:25 pm: Sensor TemperatureSensor3: 22.55102534680154 °C
+26/11/2024 4:48:26 pm: Sensor TemperatureSensor1: 23.983612305526545 °C
+26/11/2024 4:48:26 pm: Sensor TemperatureSensor2: 22.723124717981964 °C
+26/11/2024 4:48:26 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:48:27 pm: Sensor TemperatureSensor1: 22.920960484347173 °C
+26/11/2024 4:48:27 pm: Sensor TemperatureSensor2: 22.8119612048657 °C
+26/11/2024 4:48:27 pm: Sensor TemperatureSensor3: 22.466162616325708 °C
+26/11/2024 4:48:28 pm: Sensor TemperatureSensor1: 23.147485966442083 °C
+26/11/2024 4:48:28 pm: Sensor TemperatureSensor2: 23.012742581633407 °C
+26/11/2024 4:48:28 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:48:29 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:48:29 pm: Sensor TemperatureSensor2: 21.751794583072563 °C
+26/11/2024 4:48:29 pm: Sensor TemperatureSensor3: 22.829047890582334 °C
+26/11/2024 4:48:30 pm: Sensor TemperatureSensor1: 22.738859562515934 °C
+26/11/2024 4:48:30 pm: Sensor TemperatureSensor2: 22.034175007553507 °C
+26/11/2024 4:48:30 pm: Sensor TemperatureSensor3: 22.678487204312038 °C
+26/11/2024 4:48:31 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:48:31 pm: Sensor TemperatureSensor2: 22.821910415454997 °C
+26/11/2024 4:48:31 pm: Sensor TemperatureSensor3: 23.22893761843688 °C
+26/11/2024 4:48:32 pm: Sensor TemperatureSensor1: 23.213047608362036 °C
+26/11/2024 4:48:32 pm: Sensor TemperatureSensor2: 22.273940523222226 °C
+26/11/2024 4:48:32 pm: Sensor TemperatureSensor3: 22.803363910454355 °C
+26/11/2024 4:48:33 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:48:33 pm: Sensor TemperatureSensor2: 22.768790074904594 °C
+26/11/2024 4:48:33 pm: Sensor TemperatureSensor3: 23.663481514236587 °C
+26/11/2024 4:48:34 pm: Sensor TemperatureSensor1: 22.70667883966057 °C
+26/11/2024 4:48:34 pm: Sensor TemperatureSensor2: 23.028527427269438 °C
+26/11/2024 4:48:34 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:48:35 pm: Sensor TemperatureSensor1: 23.341217509839556 °C
+26/11/2024 4:48:35 pm: Sensor TemperatureSensor2: 22.85162227870521 °C
+26/11/2024 4:48:35 pm: Sensor TemperatureSensor3: 23.7491541621807 °C
+26/11/2024 4:48:36 pm: Sensor TemperatureSensor1: 23.930711056610484 °C
+26/11/2024 4:48:36 pm: Sensor TemperatureSensor2: 22.92945510998084 °C
+26/11/2024 4:48:36 pm: Sensor TemperatureSensor3: 23.639784419485586 °C
+26/11/2024 4:48:37 pm: Sensor TemperatureSensor1: 23.07032714315098 °C
+26/11/2024 4:48:37 pm: Sensor TemperatureSensor2: 21.739837322283623 °C
+26/11/2024 4:48:37 pm: Sensor TemperatureSensor3: 22.31300657700877 °C
+26/11/2024 4:48:38 pm: Sensor TemperatureSensor1: 22.552080127012292 °C
+26/11/2024 4:48:38 pm: Sensor TemperatureSensor2: 23.06666469960211 °C
+26/11/2024 4:48:38 pm: Sensor TemperatureSensor3: 23.389940726835604 °C
+26/11/2024 4:48:48 pm: Sensor TemperatureSensor1: 23.246994908388295 °C
+26/11/2024 4:48:48 pm: Sensor TemperatureSensor2: 22.330950362551263 °C
+26/11/2024 4:48:48 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:48:49 pm: Sensor TemperatureSensor1: 23.933597615552124 °C
+26/11/2024 4:48:49 pm: Sensor TemperatureSensor2: 22.83774320421719 °C
+26/11/2024 4:48:49 pm: Sensor TemperatureSensor3: 22.45848796837975 °C
+26/11/2024 4:48:50 pm: Sensor TemperatureSensor1: 22.32814398273088 °C
+26/11/2024 4:48:50 pm: Sensor TemperatureSensor2: 22.301450291267315 °C
+26/11/2024 4:48:50 pm: Sensor TemperatureSensor3: 22.438069460115123 °C
+26/11/2024 4:48:51 pm: Sensor TemperatureSensor1: 23.573904915429686 °C
+26/11/2024 4:48:51 pm: Sensor TemperatureSensor2: 22.083512575078306 °C
+26/11/2024 4:48:51 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:48:52 pm: Sensor TemperatureSensor1: 22.85635015907638 °C
+26/11/2024 4:48:52 pm: Sensor TemperatureSensor2: 22.16242388882173 °C
+26/11/2024 4:48:52 pm: Sensor TemperatureSensor3: 23.685097382345717 °C
+26/11/2024 4:48:53 pm: Sensor TemperatureSensor1: 22.848381876932628 °C
+26/11/2024 4:48:53 pm: Sensor TemperatureSensor2: 21.65317560779607 °C
+26/11/2024 4:48:53 pm: Sensor TemperatureSensor3: 23.915500299199866 °C
+26/11/2024 4:48:54 pm: Sensor TemperatureSensor1: 22.733776453868163 °C
+26/11/2024 4:48:54 pm: Sensor TemperatureSensor2: 22.01285743047942 °C
+26/11/2024 4:48:54 pm: Sensor TemperatureSensor3: 23.453961534192935 °C
+26/11/2024 4:48:55 pm: Sensor TemperatureSensor1: 23.403418923015842 °C
+26/11/2024 4:48:55 pm: Sensor TemperatureSensor2: 22.615272815516175 °C
+26/11/2024 4:48:55 pm: Sensor TemperatureSensor3: 23.51632426966765 °C
+26/11/2024 4:48:56 pm: Sensor TemperatureSensor1: 23.642259825645187 °C
+26/11/2024 4:48:56 pm: Invalid data detected for Sensor TemperatureSensor2
+26/11/2024 4:48:56 pm: Sensor TemperatureSensor3: 22.869091918440073 °C
+26/11/2024 4:48:57 pm: Sensor TemperatureSensor1: 22.435736788642124 °C
+26/11/2024 4:48:57 pm: Sensor TemperatureSensor2: 23.396001154484697 °C
+26/11/2024 4:48:57 pm: Sensor TemperatureSensor3: 22.202019503146545 °C
+26/11/2024 4:48:58 pm: Sensor TemperatureSensor1: 23.71887257968269 °C
+26/11/2024 4:48:58 pm: Sensor TemperatureSensor2: 22.04390712643078 °C
+26/11/2024 4:48:58 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:48:59 pm: Sensor TemperatureSensor1: 23.084052402869652 °C
+26/11/2024 4:48:59 pm: Sensor TemperatureSensor2: 23.46664492258926 °C
+26/11/2024 4:48:59 pm: Sensor TemperatureSensor3: 22.983472041920603 °C
+26/11/2024 4:49:00 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:49:00 pm: Sensor TemperatureSensor2: 23.058281885664353 °C
+26/11/2024 4:49:00 pm: Sensor TemperatureSensor3: 22.25445694614462 °C
+26/11/2024 4:49:01 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:49:01 pm: Sensor TemperatureSensor2: 22.274405148752646 °C
+26/11/2024 4:49:01 pm: Sensor TemperatureSensor3: 23.580838621822902 °C
+26/11/2024 4:49:02 pm: Sensor TemperatureSensor1: 23.933311643602934 °C
+26/11/2024 4:49:02 pm: Sensor TemperatureSensor2: 22.955325751170804 °C
+26/11/2024 4:49:02 pm: Sensor TemperatureSensor3: 22.81475356766614 °C
+26/11/2024 4:49:03 pm: Sensor TemperatureSensor1: 23.570960344142897 °C
+26/11/2024 4:49:03 pm: Sensor TemperatureSensor2: 23.19981310584403 °C
+26/11/2024 4:49:03 pm: Sensor TemperatureSensor3: 22.850778969887354 °C
+26/11/2024 4:49:04 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:49:04 pm: Sensor TemperatureSensor2: 23.232749152260602 °C
+26/11/2024 4:49:04 pm: Sensor TemperatureSensor3: 23.55973225104157 °C
+26/11/2024 4:49:05 pm: Sensor TemperatureSensor1: 22.268530929611035 °C
+26/11/2024 4:49:05 pm: Sensor TemperatureSensor2: 22.12958247739949 °C
+26/11/2024 4:49:05 pm: Sensor TemperatureSensor3: 23.43392148581429 °C
+26/11/2024 4:49:06 pm: Sensor TemperatureSensor1: 23.08318329428824 °C
+26/11/2024 4:49:06 pm: Sensor TemperatureSensor2: 21.892739718656 °C
+26/11/2024 4:49:06 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:49:07 pm: Sensor TemperatureSensor1: 22.286954367445034 °C
+26/11/2024 4:49:07 pm: Sensor TemperatureSensor2: 22.40152759693249 °C
+26/11/2024 4:49:07 pm: Sensor TemperatureSensor3: 23.70145874575687 °C
+26/11/2024 4:49:08 pm: Sensor TemperatureSensor1: 23.508794714147225 °C
+26/11/2024 4:49:08 pm: Sensor TemperatureSensor2: 21.852762395252157 °C
+26/11/2024 4:49:08 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:49:09 pm: Sensor TemperatureSensor1: 23.81058809387452 °C
+26/11/2024 4:49:09 pm: Sensor TemperatureSensor2: 22.536794768995026 °C
+26/11/2024 4:49:09 pm: Sensor TemperatureSensor3: 22.26835352570982 °C
+26/11/2024 4:49:10 pm: Sensor TemperatureSensor1: 23.908899859092166 °C
+26/11/2024 4:49:10 pm: Sensor TemperatureSensor2: 23.298548816308728 °C
+26/11/2024 4:49:10 pm: Sensor TemperatureSensor3: 22.922168027933893 °C
+26/11/2024 4:49:11 pm: Sensor TemperatureSensor1: 22.974427037809168 °C
+26/11/2024 4:49:11 pm: Sensor TemperatureSensor2: 22.65348350224437 °C
+26/11/2024 4:49:11 pm: Sensor TemperatureSensor3: 22.4886589561664 °C
+26/11/2024 4:49:12 pm: Sensor TemperatureSensor1: 23.694689641532396 °C
+26/11/2024 4:49:12 pm: Sensor TemperatureSensor2: 23.447515140585736 °C
+26/11/2024 4:49:12 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:49:13 pm: Sensor TemperatureSensor1: 23.529491136198697 °C
+26/11/2024 4:49:13 pm: Sensor TemperatureSensor2: 22.134857986140272 °C
+26/11/2024 4:49:13 pm: Sensor TemperatureSensor3: 22.316794186853503 °C
+26/11/2024 4:49:14 pm: Sensor TemperatureSensor1: 22.204750293676536 °C
+26/11/2024 4:49:14 pm: Sensor TemperatureSensor2: 22.236537416590295 °C
+26/11/2024 4:49:14 pm: Sensor TemperatureSensor3: 23.62082894648904 °C
+26/11/2024 4:49:15 pm: Sensor TemperatureSensor1: 23.104705836917134 °C
+26/11/2024 4:49:15 pm: Invalid data detected for Sensor TemperatureSensor2
+26/11/2024 4:49:15 pm: Sensor TemperatureSensor3: 23.680617209148647 °C
+26/11/2024 4:49:16 pm: Sensor TemperatureSensor1: 22.733894146877148 °C
+26/11/2024 4:49:16 pm: Sensor TemperatureSensor2: 21.597217369285577 °C
+26/11/2024 4:49:16 pm: Sensor TemperatureSensor3: 22.86871195436797 °C
+26/11/2024 4:49:17 pm: Sensor TemperatureSensor1: 22.898943383123168 °C
+26/11/2024 4:49:17 pm: Sensor TemperatureSensor2: 22.11746098583214 °C
+26/11/2024 4:49:17 pm: Sensor TemperatureSensor3: 23.119718010250786 °C
+26/11/2024 4:49:18 pm: Sensor TemperatureSensor1: 23.28144235555212 °C
+26/11/2024 4:49:18 pm: Sensor TemperatureSensor2: 21.84924903702381 °C
+26/11/2024 4:49:18 pm: Sensor TemperatureSensor3: 22.87406565681647 °C
+26/11/2024 4:49:19 pm: Sensor TemperatureSensor1: 22.531238726202723 °C
+26/11/2024 4:49:19 pm: Sensor TemperatureSensor2: 23.07882859523385 °C
+26/11/2024 4:49:19 pm: Sensor TemperatureSensor3: 22.346799820087234 °C
+26/11/2024 4:49:20 pm: Sensor TemperatureSensor1: 23.22179870087406 °C
+26/11/2024 4:49:20 pm: Sensor TemperatureSensor2: 22.09914134894847 °C
+26/11/2024 4:49:20 pm: Sensor TemperatureSensor3: 23.336638510448424 °C
+26/11/2024 4:49:21 pm: Sensor TemperatureSensor1: 22.860997215321916 °C
+26/11/2024 4:49:21 pm: Sensor TemperatureSensor2: 23.308926876444207 °C
+26/11/2024 4:49:21 pm: Sensor TemperatureSensor3: 22.10762722786826 °C
+26/11/2024 4:49:41 pm: Sensor TemperatureSensor1: 22.6136613933256 °C
+26/11/2024 4:49:41 pm: Sensor TemperatureSensor2: 22.52974223254593 °C
+26/11/2024 4:49:41 pm: Sensor TemperatureSensor3: 23.743180091585455 °C
+26/11/2024 4:49:42 pm: Sensor TemperatureSensor1: 23.552810500904606 °C
+26/11/2024 4:49:42 pm: Sensor TemperatureSensor2: 21.842888345257514 °C
+26/11/2024 4:49:42 pm: Sensor TemperatureSensor3: 22.66552644714127 °C
+26/11/2024 4:49:43 pm: Sensor TemperatureSensor1: 23.09665180341818 °C
+26/11/2024 4:49:43 pm: Invalid data detected for Sensor TemperatureSensor2
+26/11/2024 4:49:43 pm: Sensor TemperatureSensor3: 23.46097132231833 °C
+26/11/2024 4:49:51 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:49:51 pm: Sensor TemperatureSensor2: 22.004824696410566 °C
+26/11/2024 4:49:51 pm: Sensor TemperatureSensor3: 23.14849325660345 °C
+26/11/2024 4:49:52 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:49:52 pm: Sensor TemperatureSensor2: 22.928167819569367 °C
+26/11/2024 4:49:52 pm: Sensor TemperatureSensor3: 22.09615926060657 °C
+26/11/2024 4:49:53 pm: Sensor TemperatureSensor1: 22.87724633622357 °C
+26/11/2024 4:49:53 pm: Sensor TemperatureSensor2: 23.159628830766636 °C
+26/11/2024 4:49:53 pm: Sensor TemperatureSensor3: 22.020981262517296 °C
+26/11/2024 4:49:54 pm: Sensor TemperatureSensor1: 23.22264858041395 °C
+26/11/2024 4:49:54 pm: Sensor TemperatureSensor2: 22.924225179750575 °C
+26/11/2024 4:49:54 pm: Sensor TemperatureSensor3: 22.106897016497644 °C
+26/11/2024 4:49:55 pm: Sensor TemperatureSensor1: 22.86551517661429 °C
+26/11/2024 4:49:55 pm: Sensor TemperatureSensor2: 21.6393164246567 °C
+26/11/2024 4:49:55 pm: Sensor TemperatureSensor3: 23.394471691701387 °C
+26/11/2024 4:49:56 pm: Sensor TemperatureSensor1: 23.237741747074164 °C
+26/11/2024 4:49:56 pm: Sensor TemperatureSensor2: 22.73859408907487 °C
+26/11/2024 4:49:56 pm: Sensor TemperatureSensor3: 22.879301005675593 °C
+26/11/2024 4:49:57 pm: Sensor TemperatureSensor1: 23.857556864862808 °C
+26/11/2024 4:49:57 pm: Sensor TemperatureSensor2: 22.319227852624213 °C
+26/11/2024 4:49:57 pm: Sensor TemperatureSensor3: 23.1737597667767 °C
+26/11/2024 4:49:58 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:49:58 pm: Sensor TemperatureSensor2: 23.112140818188607 °C
+26/11/2024 4:49:58 pm: Sensor TemperatureSensor3: 23.920575905220574 °C
+26/11/2024 4:49:59 pm: Sensor TemperatureSensor1: 23.4688713375392 °C
+26/11/2024 4:49:59 pm: Sensor TemperatureSensor2: 21.895714830706556 °C
+26/11/2024 4:49:59 pm: Invalid data detected for Sensor TemperatureSensor3
+26/11/2024 4:50:00 pm: Sensor TemperatureSensor1: 22.968992552011134 °C
+26/11/2024 4:50:00 pm: Sensor TemperatureSensor2: 22.81650914293869 °C
+26/11/2024 4:50:00 pm: Sensor TemperatureSensor3: 23.307639398587085 °C
+26/11/2024 4:50:01 pm: Invalid data detected for Sensor TemperatureSensor1
+26/11/2024 4:50:01 pm: Sensor TemperatureSensor2: 23.18860408307197 °C
+26/11/2024 4:50:01 pm: Sensor TemperatureSensor3: 23.10380906665155 °C
+26/11/2024 4:51:52 pm: Sensor TemperatureSensor1: 23.80003231344791 °C
+26/11/2024 4:51:52 pm: Sensor TemperatureSensor2: 21.677153307433272 °C
+26/11/2024 4:51:52 pm: Sensor TemperatureSensor3: 23.747240879365172 °C
+26/11/2024 4:51:53 pm: Sensor TemperatureSensor1: 22.857984311207403 °C
+26/11/2024 4:51:53 pm: Sensor TemperatureSensor2: 22.611139871002404 °C
+26/11/2024 4:51:53 pm: Sensor TemperatureSensor3: 23.51930636852354 °C
+26/11/2024 4:51:54 pm: Sensor TemperatureSensor1: 22.6086161812883 °C
+26/11/2024 4:51:55 pm: Sensor TemperatureSensor1: 23.893309941280428 °C
+26/11/2024 4:51:55 pm: Sensor TemperatureSensor2: 23.269764003775755 °C
+26/11/2024 4:51:55 pm: Sensor TemperatureSensor3: 23.57173651397787 °C
+26/11/2024 4:51:56 pm: Sensor TemperatureSensor2: 23.00595353096955 °C
+26/11/2024 4:51:56 pm: Sensor TemperatureSensor3: 23.58214265580862 °C
+26/11/2024 4:51:57 pm: Sensor TemperatureSensor1: 22.3061977481477 °C
+26/11/2024 4:51:57 pm: Sensor TemperatureSensor2: 22.80722981007651 °C
+26/11/2024 4:51:57 pm: Sensor TemperatureSensor3: 22.61536188699666 °C
