@@ -8,8 +8,7 @@
         foreach (var line in lines)
         {
             var parts = line.Split(',');
-            Sensor sensor = new Sensor();
-            sensor.InitialiseSensor(parts[0], parts[1], double.Parse(parts[2]), double.Parse(parts[3]));
+            Sensor sensor = new Sensor(parts[0], parts[1], double.Parse(parts[2]), double.Parse(parts[3]));
             Sensors.Add(sensor);
         }
     }

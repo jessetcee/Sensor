@@ -1,23 +1,50 @@
 ﻿public class Sensor
 {
-    public string Name { get; private set; }
-    public string Location { get; private set; }
-    public double MinValue { get; private set; }
-    public double MaxValue { get; private set; }
-    public List<double> DataHistory { get; private set; }
+    public string Name { get; set; }
+    public string Location { get; set; }
+    public double MinValue { get; set; }
+    public double MaxValue { get; set; }
+    public List<double> DataHistory { get; set; }
 
-    // Constructor initializes only the DataHistory
-    public Sensor()
+    public void AddToHistory(double value)
     {
-        DataHistory = new List<double>();
+        DataHistory.Add(value);
     }
 
-    // Function to initialize sensor properties
-    public void InitialiseSensor(string name, string location, double minValue, double maxValue)
+    public bool ValidateData(double value)
+    {
+        return value >= MinValue && value <= MaxValue;
+    }
+    public double SmoothData(int windowSize = 5)
+    {
+        if (DataHistory.Count < windowSize)
+        {
+            throw new InvalidOperationException("Not enough data to smooth.");
+        }
+
+        double sum = 0;
+        for (int i = DataHistory.Count - windowSize; i < DataHistory.Count; i++)
+        {
+            sum += DataHistory[i];
+        }
+
+        return sum / windowSize;
+    }
+
+    public bool DetectAnomaly(double value)
+    {
+        if (DataHistory.Count < 5) return false; // Not enough data for anomaly detection
+
+        double average = SmoothData(5);
+        return Math.Abs(value - average) > (MaxValue - MinValue) * 0.2; // 20% deviation
+    }
+
+    public Sensor(string name, string location, double minValue, double maxValue)
     {
         Name = name;
         Location = location;
         MinValue = minValue;
         MaxValue = maxValue;
+        DataHistory = new List<double>();
     }
 }

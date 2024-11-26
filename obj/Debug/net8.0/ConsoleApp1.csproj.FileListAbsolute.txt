@@ -12,3 +12,9 @@ C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Cons
 C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\jesse\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.dev.json
